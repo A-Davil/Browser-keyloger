@@ -1,6 +1,8 @@
 # Browser-keyloger
 This keyloger work localhost you can modifiy widare network send all capchure key other server end email
 
+Download Browser-keyloger.zip file and extrect 
+
 modify background.js file ( SERVER_URL ) Replace with your LAN IP
 
 modify mainifest.json file ( host_permissions ) http://localhost/* Replace with your LAN IP
